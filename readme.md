@@ -1,4 +1,4 @@
-# Street-Style-landing-Page-No-Responsive- 
+# Restaurants-landing-Page-No-Responsive- 
 ## **HTML** **CSS**
 
 ### This is my project on 
