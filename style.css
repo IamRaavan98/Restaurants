@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Red Rose", cursive;
+}
+
+/* ------------------------------ */
+/* ---------- NAVBAR ------------ */
+/* ------------------------------ */
+
+/* ------------------------------ */
+/* ---------- HERO ------------ */
+/* ------------------------------ */
+body{
+  background-image: url(assets/PEXELSS.png);
+   background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 155vh; 
+}
+
+.list{
+  display: block;
+   text-align: center;
+  }
+.list-item{
+  display: inline-block;
+   margin-left: 90px;
+   margin-right: 40px;
+   color: #fbb719;
+   font-family: 'Red Rose';
+   font-weight: 400;
+}
+button.button-small{
+  display: block;
+  position: relative;
+  margin-left: 1250px;
+  bottom: 30px;;
+  font-size: 30px;
+  padding: 5px 35px;
+  color: #ffffff;
+  background-color: #ff505f;
+  border:#ff505f;
+}
+img.logo{
+  display: block;
+  position: relative;
+  top: 50px;
+  left: 55px;
+}
+.hero{
+  display: block;
+}
+.hero-heading{
+  display: block;
+  text-align: center;
+  margin-top: 150px;
+  font-size: 110px;
+  margin-left: 190px;
+  margin-right: 190px;
+  font-weight: 800;
+  font-family: 'Red Rose';
+ color: #fbb719;
+  line-height: 100px;
+} 
+
+.button-large{
+  height: 50px;
+  border: #ffffff;
+  display: block;
+  margin-left: 700px;
+  margin-top: 40px;
+  font-size: 20px;
+  padding: 5px 40px;
+  color: #ffffff;
+  background-color: #ff505f;
+
+}
+div>div>img{
+  position: relative;
+  display: block;
+  margin-left: 80%;
+  bottom: -150px;
+  padding: 40px 40px;
+}
+
+
+
+
+
+
+
+
